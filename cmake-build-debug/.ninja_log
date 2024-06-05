@@ -1,0 +1,8 @@
+# ninja log v5
+0	255	7393135539323836	CMakeFiles/zlomek.dir/main.cpp.obj	891fd1d4c7f6658b
+4	276	7393135539524810	CMakeFiles/zlomek.dir/zlomek.cpp.obj	fdf88b35c947585b
+276	379	7393135540525417	zlomek.exe	e9aaeb01aabbbbe2
+2	250	7393145295764311	CMakeFiles/zlomek.dir/main.cpp.obj	891fd1d4c7f6658b
+250	319	7393145296431721	zlomek.exe	e9aaeb01aabbbbe2
+3	240	7393146386236500	CMakeFiles/zlomek.dir/main.cpp.obj	891fd1d4c7f6658b
+240	308	7393146386887199	zlomek.exe	e9aaeb01aabbbbe2
